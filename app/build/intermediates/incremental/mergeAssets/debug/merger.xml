@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="E:\Android\AndroidProgramming2e\05_SecondActivity\Databases\app\src\main\assets"><file name="mydb" path="E:\Android\AndroidProgramming2e\05_SecondActivity\Databases\app\src\main\assets\mydb"/></source></dataSet><dataSet config="debug"><source path="E:\Android\AndroidProgramming2e\05_SecondActivity\Databases\app\src\debug\assets"/></dataSet></merger>
